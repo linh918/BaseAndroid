@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+    <tab
+        icon="@drawable/st_ic_home"
+        id="@+id/tabNews"
+        title="News" />
+    <tab
+        icon="@drawable/st_ic_moment"
+        id="@+id/tabMoment"
+        title="Moment" />
+    <tab
+        icon="@drawable/st_ic_track"
+        id="@+id/tabTrack"
+        title="Track" />
+    <tab
+        icon="@drawable/st_ic_more"
+        id="@+id/tabMore"
+        title="More" />
+</tabs>

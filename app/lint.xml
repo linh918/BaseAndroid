@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="InvalidPackage">
+        <ignore regexp=".*/simple-xml-.*.jar" />
+        <ignore regexp="lombok-.*.jar" />
+        <ignore regexp="okio-.*.jar" />
+    </issue>
+    <issue id="ClickableViewAccessibility" severity="ignore" />
+    <issue id="InflateParams" severity="ignore" />
+    <issue id="LabelFor" severity="ignore" />
+    <issue id="ContentDescription" severity="ignore" />
+    <issue id="IconDensities" severity="ignore" />
+    <issue id="CommitPrefEdits" severity="ignore" />
+    <issue id="MissingTranslation" severity="ignore" />
+    <issue id="TypographyEllipsis" severity="ignore" />
+    <issue id="TypographyOther" severity="ignore" />
+    <issue id="IconMissingDensityFolder" severity="ignore" />
+    <issue id="RtlSymmetry" severity="ignore" />
+    <issue id="RtlHardcoded" severity="ignore" />
+    <issue id="Overdraw" severity="ignore" />
+    <issue id="RelativeOverlap" severity="ignore" />
+</lint>

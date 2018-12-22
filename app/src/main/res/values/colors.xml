@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#ffc723</color>
+    <color name="primary_25">#40ffc723</color>
+    <color name="primaryDark">#000</color>
+    <color name="mine_shaft">#333333</color>
+    <color name="dusty_gray">#999999</color>
+    <color name="gray">#7f7f7f</color>
+    <color name="silver">#cccccc</color>
+    <color name="alabaster">#fafafa</color>
+    <color name="wisteria">#9b59b6</color>
+
+</resources>
